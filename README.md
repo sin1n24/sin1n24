@@ -1,5 +1,14 @@
-## Hi there 👋
+# sin1 🤖
 
+**かわさきロボット** を軸に活動しているエンジニアです。  
+物理とデジタルをつなぐ ものづくりが好きです。
+
+## 🔗 リンク
+
+- 🌐 ポートフォリオ: [sin1.studio](https://sin1.studio/)
+- 🤖 ミニかわロボ公式: [sin1.studio/MiniKawaRobo/](https://sin1.studio/MiniKawaRobo/)
+- 🐦 X (Twitter): [@sin1west](https://x.com/sin1west)
+- 📝 ブログ: [sin1n24.hatenablog.com](https://sin1n24.hatenablog.com/)
 <!--
 **sin1n24/sin1n24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
